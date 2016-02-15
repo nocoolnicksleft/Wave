@@ -1,0 +1,85 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BOARD_BLANK::PIN_B3	C:\LokaleDaten\picprojects\welle\main.c	12;"	d	line:12	file:
+BOARD_CLOCK::PIN_B2	C:\LokaleDaten\picprojects\welle\main.c	11;"	d	line:11	file:
+BOARD_CS0::PIN_B4	C:\LokaleDaten\picprojects\welle\main.c	13;"	d	line:13	file:
+BOARD_CS1::PIN_B5	C:\LokaleDaten\picprojects\welle\main.c	14;"	d	line:14	file:
+BOARD_CS2::PIN_B6	C:\LokaleDaten\picprojects\welle\main.c	15;"	d	line:15	file:
+BOARD_DATA::PIN_B0	C:\LokaleDaten\picprojects\welle\main.c	9;"	d	line:9	file:
+BOARD_DS::PIN_B7	C:\LokaleDaten\picprojects\welle\main.c	16;"	d	line:16	file:
+BOARD_LATCH::PIN_B1	C:\LokaleDaten\picprojects\welle\main.c	10;"	d	line:10	file:
+BOOLEAN::shortint	C:\Programme\PICC\Devices\16F84.h	37;"	d	line:37
+BROWNOUT_RESTART::26	C:\Programme\PICC\Devices\16F84.h	55;"	d	line:55
+BYTE::int	C:\Programme\PICC\Devices\16F84.h	36;"	d	line:36
+FALSE::0	C:\Programme\PICC\Devices\16F84.h	33;"	d	line:33
+GLOBAL::0x0B80	C:\Programme\PICC\Devices\16F84.h	105;"	d	line:105
+H_TO_L::0	C:\Programme\PICC\Devices\16F84.h	103;"	d	line:103
+INT_EEPROM::0x0B40	C:\Programme\PICC\Devices\16F84.h	109;"	d	line:109
+INT_EXT::0x0B10	C:\Programme\PICC\Devices\16F84.h	108;"	d	line:108
+INT_RB::0x0B08	C:\Programme\PICC\Devices\16F84.h	107;"	d	line:107
+INT_RTCC::0x0B20	C:\Programme\PICC\Devices\16F84.h	106;"	d	line:106
+INT_TIMER0::0x0B20	C:\Programme\PICC\Devices\16F84.h	110;"	d	line:110
+L_TO_H::0x40	C:\Programme\PICC\Devices\16F84.h	102;"	d	line:102
+MCLR_FROM_RUN::27	C:\Programme\PICC\Devices\16F84.h	53;"	d	line:53
+MCLR_FROM_SLEEP::19	C:\Programme\PICC\Devices\16F84.h	52;"	d	line:52
+NORMAL_POWER_UP::24	C:\Programme\PICC\Devices\16F84.h	54;"	d	line:54
+PIN_A0::40	C:\Programme\PICC\Devices\16F84.h	17;"	d	line:17
+PIN_A1::41	C:\Programme\PICC\Devices\16F84.h	18;"	d	line:18
+PIN_A2::42	C:\Programme\PICC\Devices\16F84.h	19;"	d	line:19
+PIN_A3::43	C:\Programme\PICC\Devices\16F84.h	20;"	d	line:20
+PIN_A4::44	C:\Programme\PICC\Devices\16F84.h	21;"	d	line:21
+PIN_B0::48	C:\Programme\PICC\Devices\16F84.h	23;"	d	line:23
+PIN_B1::49	C:\Programme\PICC\Devices\16F84.h	24;"	d	line:24
+PIN_B2::50	C:\Programme\PICC\Devices\16F84.h	25;"	d	line:25
+PIN_B3::51	C:\Programme\PICC\Devices\16F84.h	26;"	d	line:26
+PIN_B4::52	C:\Programme\PICC\Devices\16F84.h	27;"	d	line:27
+PIN_B5::53	C:\Programme\PICC\Devices\16F84.h	28;"	d	line:28
+PIN_B6::54	C:\Programme\PICC\Devices\16F84.h	29;"	d	line:29
+PIN_B7::55	C:\Programme\PICC\Devices\16F84.h	30;"	d	line:30
+RTCC_8_BIT::0	C:\Programme\PICC\Devices\16F84.h	78;"	d	line:78
+RTCC_DIV_128::6	C:\Programme\PICC\Devices\16F84.h	74;"	d	line:74
+RTCC_DIV_16::3	C:\Programme\PICC\Devices\16F84.h	71;"	d	line:71
+RTCC_DIV_1::8	C:\Programme\PICC\Devices\16F84.h	67;"	d	line:67
+RTCC_DIV_256::7	C:\Programme\PICC\Devices\16F84.h	75;"	d	line:75
+RTCC_DIV_2::0	C:\Programme\PICC\Devices\16F84.h	68;"	d	line:68
+RTCC_DIV_32::4	C:\Programme\PICC\Devices\16F84.h	72;"	d	line:72
+RTCC_DIV_4::1	C:\Programme\PICC\Devices\16F84.h	69;"	d	line:69
+RTCC_DIV_64::5	C:\Programme\PICC\Devices\16F84.h	73;"	d	line:73
+RTCC_DIV_8::2	C:\Programme\PICC\Devices\16F84.h	70;"	d	line:70
+RTCC_EXT_H_TO_L::48	C:\Programme\PICC\Devices\16F84.h	65;"	d	line:65
+RTCC_EXT_L_TO_H::32	C:\Programme\PICC\Devices\16F84.h	64;"	d	line:64
+RTCC_INTERNAL::0	C:\Programme\PICC\Devices\16F84.h	63;"	d	line:63
+TRUE::1	C:\Programme\PICC\Devices\16F84.h	34;"	d	line:34
+WDT_1152MS::14	C:\Programme\PICC\Devices\16F84.h	94;"	d	line:94
+WDT_144MS::11	C:\Programme\PICC\Devices\16F84.h	91;"	d	line:91
+WDT_18MS::8	C:\Programme\PICC\Devices\16F84.h	88;"	d	line:88
+WDT_2304MS::15	C:\Programme\PICC\Devices\16F84.h	95;"	d	line:95
+WDT_288MS::12	C:\Programme\PICC\Devices\16F84.h	92;"	d	line:92
+WDT_36MS::9	C:\Programme\PICC\Devices\16F84.h	89;"	d	line:89
+WDT_576MS::13	C:\Programme\PICC\Devices\16F84.h	93;"	d	line:93
+WDT_72MS::10	C:\Programme\PICC\Devices\16F84.h	90;"	d	line:90
+WDT_FROM_SLEEP::3	C:\Programme\PICC\Devices\16F84.h	50;"	d	line:50
+WDT_TIMEOUT::11	C:\Programme\PICC\Devices\16F84.h	51;"	d	line:51
+bu1	C:\LokaleDaten\picprojects\welle\main.c	37;"	l	line:37
+bu2	C:\LokaleDaten\picprojects\welle\main.c	38;"	l	line:38
+buffer	C:\LokaleDaten\picprojects\welle\main.c	19;"	v	line:19
+currentline	C:\LokaleDaten\picprojects\welle\main.c	18;"	v	line:18
+dsel	C:\LokaleDaten\picprojects\welle\main.c	36;"	l	line:36
+fgetc::getch	C:\Programme\PICC\Devices\16F84.h	40;"	d	line:40
+fgets::gets	C:\Programme\PICC\Devices\16F84.h	44;"	d	line:44
+fputc::putchar	C:\Programme\PICC\Devices\16F84.h	43;"	d	line:43
+fputs::puts	C:\Programme\PICC\Devices\16F84.h	45;"	d	line:45
+getc::getch	C:\Programme\PICC\Devices\16F84.h	39;"	d	line:39
+getchar::getch	C:\Programme\PICC\Devices\16F84.h	41;"	d	line:41
+i	C:\LokaleDaten\picprojects\welle\main.c	35;"	l	line:35
+main	C:\LokaleDaten\picprojects\welle\main.c	33;"	f	line:33	signature:(void)
+putc::putchar	C:\Programme\PICC\Devices\16F84.h	42;"	d	line:42
+rotation	C:\LokaleDaten\picprojects\welle\main.c	39;"	l	line:39
+rotation_delay	C:\LokaleDaten\picprojects\welle\main.c	40;"	l	line:40
+set_test	C:\LokaleDaten\picprojects\welle\main.c	21;"	f	line:21
